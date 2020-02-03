@@ -1,4 +1,6 @@
 ## Welcome to GitHub Pages
+title- "Welcome to the roberto fermino homepage!"
+discription- feel free to check latest updates of my website.
 
 You can use the [editor on GitHub](https://github.com/Brijbihari24/fermina.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
